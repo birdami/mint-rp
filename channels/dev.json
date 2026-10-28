@@ -1,0 +1,1883 @@
+{
+  "schema": 1,
+  "channel": "dev",
+  "version": "2026.10.28-4aeadf8",
+  "serial": 1793193480,
+  "published": "2026-10-28T13:19:24Z",
+  "min_launcher": "0.1.0",
+  "ui_protocol": 17,
+  "components": {
+    "cef": "f14fe4f-omp1.5.8.3079-4",
+    "ui": "4aeadf8",
+    "asi_loader": "v9.7.4"
+  },
+  "base_url": "https://github.com/birdami/mint-rp/releases/download/",
+  "files": [
+    {
+      "path": "cef.asi",
+      "size": 221696,
+      "sha256": "ad9c4fbdbc4b071f803e89704ceee12e6b1cec83b7e07a43136233b00c564c21",
+      "url": "client-2026.10.28-4aeadf8/ad9c4fbdbc4b071f803e89704ceee12e6b1cec83b7e07a43136233b00c564c21.zst",
+      "zsize": 111412
+    },
+    {
+      "path": "cef/assets/ui/assets/index-CmX2OeW5.js",
+      "size": 441123,
+      "sha256": "c20b54f81db8405024cba3195349c3a6da014c858538a1c6f14e7812b0651df7",
+      "url": "client-2026.10.28-4aeadf8/c20b54f81db8405024cba3195349c3a6da014c858538a1c6f14e7812b0651df7.zst",
+      "zsize": 119712
+    },
+    {
+      "path": "cef/assets/ui/assets/manrope-cyrillic-ext-wght-normal-C8S-KRRz.woff2",
+      "size": 2552,
+      "sha256": "de37de877dc17e4577341fa68bb5cb526b53d54cb29721e674208546a3c7849d",
+      "url": "client-2026.10.28-4aeadf8/de37de877dc17e4577341fa68bb5cb526b53d54cb29721e674208546a3c7849d.zst",
+      "zsize": 2548
+    },
+    {
+      "path": "cef/assets/ui/assets/manrope-cyrillic-wght-normal-Dvxsihut.woff2",
+      "size": 14500,
+      "sha256": "c268b459a9329e59fecf39a17618efd44c71735532048d60b12aab76a8c14914",
+      "url": "client-2026.10.28-4aeadf8/c268b459a9329e59fecf39a17618efd44c71735532048d60b12aab76a8c14914.zst",
+      "zsize": 14514
+    },
+    {
+      "path": "cef/assets/ui/assets/manrope-greek-wght-normal-DL7QRZyv.woff2",
+      "size": 9444,
+      "sha256": "2fb2e8cbfd52ae46179a8b6024eb162f1f9c6de3d22d6e3a30d8f395de7220be",
+      "url": "client-2026.10.28-4aeadf8/2fb2e8cbfd52ae46179a8b6024eb162f1f9c6de3d22d6e3a30d8f395de7220be.zst",
+      "zsize": 9458
+    },
+    {
+      "path": "cef/assets/ui/assets/manrope-latin-ext-wght-normal-Ch3YOpNY.woff2",
+      "size": 15120,
+      "sha256": "3911b66d9f2e005a4b989223405d0e5032619c668597ba467cc76a23c8fffcfb",
+      "url": "client-2026.10.28-4aeadf8/3911b66d9f2e005a4b989223405d0e5032619c668597ba467cc76a23c8fffcfb.zst",
+      "zsize": 15134
+    },
+    {
+      "path": "cef/assets/ui/assets/manrope-latin-wght-normal-DHIcAJRg.woff2",
+      "size": 24836,
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+      "url": "client-2026.10.28-4aeadf8/a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972.zst",
+      "zsize": 24850
+    },
+    {
+      "path": "cef/assets/ui/assets/manrope-vietnamese-wght-normal-usUDDRr7.woff2",
+      "size": 8520,
+      "sha256": "6bbb044ab420e07edb0a3042d2eb314b85e83a0182e945a15ab3b9092668dfd5",
+      "url": "client-2026.10.28-4aeadf8/6bbb044ab420e07edb0a3042d2eb314b85e83a0182e945a15ab3b9092668dfd5.zst",
+      "zsize": 8534
+    },
+    {
+      "path": "cef/assets/ui/assets/style-B4uoHH3c.css",
+      "size": 82029,
+      "sha256": "c05d8a544d0ea58b976da704722e285c5e7eb7a83046bca95fe7248329ecd050",
+      "url": "client-2026.10.28-4aeadf8/c05d8a544d0ea58b976da704722e285c5e7eb7a83046bca95fe7248329ecd050.zst",
+      "zsize": 14230
+    },
+    {
+      "path": "cef/assets/ui/index.html",
+      "size": 390,
+      "sha256": "312c4f3070041ccf4d48faca7c808ae3c38fcd0a111419a6c9c0dce2cb12ea95",
+      "url": "client-2026.10.28-4aeadf8/312c4f3070041ccf4d48faca7c808ae3c38fcd0a111419a6c9c0dce2cb12ea95.zst",
+      "zsize": 266
+    },
+    {
+      "path": "cef/assets/ui/licenses/@fontsource-variable__manrope.txt",
+      "size": 4383,
+      "sha256": "d826ab6583b12c26807d8716a545bdbbb672df04f48608a364ba9efdbe501c30",
+      "url": "client-2026.10.28-4aeadf8/d826ab6583b12c26807d8716a545bdbbb672df04f48608a364ba9efdbe501c30.zst",
+      "zsize": 1953
+    },
+    {
+      "path": "cef/assets/ui/licenses/lucide-react.txt",
+      "size": 3208,
+      "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+      "url": "client-2026.10.28-4aeadf8/b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57.zst",
+      "zsize": 1494
+    },
+    {
+      "path": "cef/assets/ui/licenses/react-dom.txt",
+      "size": 1088,
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+      "url": "client-2026.10.28-4aeadf8/da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93.zst",
+      "zsize": 667
+    },
+    {
+      "path": "cef/assets/ui/licenses/react.txt",
+      "size": 1088,
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+      "url": "client-2026.10.28-4aeadf8/da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93.zst",
+      "zsize": 667
+    },
+    {
+      "path": "cef/assets/ui/licenses/README.txt",
+      "size": 315,
+      "sha256": "d872c551e34deb3eaabd2c9bbee4f5610050e772c9f1fff007c4d00e880f29ef",
+      "url": "client-2026.10.28-4aeadf8/d872c551e34deb3eaabd2c9bbee4f5610050e772c9f1fff007c4d00e880f29ef.zst",
+      "zsize": 221
+    },
+    {
+      "path": "cef/assets/ui/licenses/scheduler.txt",
+      "size": 1088,
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+      "url": "client-2026.10.28-4aeadf8/da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93.zst",
+      "zsize": 667
+    },
+    {
+      "path": "cef/cef-client.dll",
+      "size": 4163584,
+      "sha256": "3e029c49f51ed6c9a6411f00296e6c9771794ff5c95f1931575f9920f44e7867",
+      "url": "client-2026.10.28-4aeadf8/3e029c49f51ed6c9a6411f00296e6c9771794ff5c95f1931575f9920f44e7867.zst",
+      "zsize": 1908348
+    },
+    {
+      "path": "cef/cef-distribution.json",
+      "size": 750,
+      "sha256": "2fe0ae9669676fa50dd8cadc410e818a49cdb72d420ddb138f318963704de313",
+      "url": "client-2026.10.28-4aeadf8/2fe0ae9669676fa50dd8cadc410e818a49cdb72d420ddb138f318963704de313.zst",
+      "zsize": 381
+    },
+    {
+      "path": "cef/cef-renderer.exe",
+      "size": 232448,
+      "sha256": "aa967935b02f7fb6bae4864574b09f6a55294e9bd7c34ce2699a0012780f5918",
+      "url": "client-2026.10.28-4aeadf8/aa967935b02f7fb6bae4864574b09f6a55294e9bd7c34ce2699a0012780f5918.zst",
+      "zsize": 117238
+    },
+    {
+      "path": "cef/chrome_100_percent.pak",
+      "size": 695496,
+      "sha256": "502c41891a9021d515586ed3bb2217dfc103938f57354eb00ea59b5e237a2d51",
+      "url": "client-2026.10.28-4aeadf8/502c41891a9021d515586ed3bb2217dfc103938f57354eb00ea59b5e237a2d51.zst",
+      "zsize": 669119
+    },
+    {
+      "path": "cef/chrome_200_percent.pak",
+      "size": 1197075,
+      "sha256": "844ba8e516bc995779cc8140e9dbc80185f0e7566e5e7e4a0476f98d724db331",
+      "url": "client-2026.10.28-4aeadf8/844ba8e516bc995779cc8140e9dbc80185f0e7566e5e7e4a0476f98d724db331.zst",
+      "zsize": 1151989
+    },
+    {
+      "path": "cef/chrome_elf.dll",
+      "size": 1661952,
+      "sha256": "54f3eefb342976dd88d4fe28e53df2ba8870bccdc8fffb655b2d6debe6aded18",
+      "url": "client-2026.10.28-4aeadf8/54f3eefb342976dd88d4fe28e53df2ba8870bccdc8fffb655b2d6debe6aded18.zst",
+      "zsize": 699024
+    },
+    {
+      "path": "cef/config.json",
+      "size": 29,
+      "sha256": "07a038fbf695c03cd924e30f1771337204ea1d943c0a39642d10a558ac3f7185",
+      "url": "client-2026.10.28-4aeadf8/07a038fbf695c03cd924e30f1771337204ea1d943c0a39642d10a558ac3f7185.zst",
+      "zsize": 42,
+      "if_missing": true
+    },
+    {
+      "path": "cef/CREDITS.html",
+      "size": 19986044,
+      "sha256": "333620129bfec11001385ea24d68de049ce0eeb8d012d2a1382b5340d7d62daf",
+      "url": "client-2026.10.28-4aeadf8/333620129bfec11001385ea24d68de049ce0eeb8d012d2a1382b5340d7d62daf.zst",
+      "zsize": 216543
+    },
+    {
+      "path": "cef/d3dcompiler_47.dll",
+      "size": 4147544,
+      "sha256": "0ae6e52072857c3acfde53b98f56c3c6d9bd0e7b09f247ae7f40bfd451593c4c",
+      "url": "client-2026.10.28-4aeadf8/0ae6e52072857c3acfde53b98f56c3c6d9bd0e7b09f247ae7f40bfd451593c4c.zst",
+      "zsize": 1581972
+    },
+    {
+      "path": "cef/icudtl.dat",
+      "size": 10876560,
+      "sha256": "bd8c145abdf3f8383276ce01dfa4ae48709bef9fef1c0711eb7c3fab4f6eb7c2",
+      "url": "client-2026.10.28-4aeadf8/bd8c145abdf3f8383276ce01dfa4ae48709bef9fef1c0711eb7c3fab4f6eb7c2.zst",
+      "zsize": 3829468
+    },
+    {
+      "path": "cef/libcef.dll",
+      "size": 231261696,
+      "sha256": "d48c1cd51ecb955552e560f91cb41aa38f72cdc8b661574c3f3b0bef3ad14c18",
+      "url": "client-2026.10.28-4aeadf8/d48c1cd51ecb955552e560f91cb41aa38f72cdc8b661574c3f3b0bef3ad14c18.zst",
+      "zsize": 85325474
+    },
+    {
+      "path": "cef/libEGL.dll",
+      "size": 416768,
+      "sha256": "73014c365241f22cb9f71a37f5051595cf344462db697b25eea1db199dcbc3f3",
+      "url": "client-2026.10.28-4aeadf8/73014c365241f22cb9f71a37f5051595cf344462db697b25eea1db199dcbc3f3.zst",
+      "zsize": 178800
+    },
+    {
+      "path": "cef/libGLESv2.dll",
+      "size": 7077376,
+      "sha256": "2488ef7508b7239fdad81b70201c3909b5543da95c23a20a710da49fb45c7c0c",
+      "url": "client-2026.10.28-4aeadf8/2488ef7508b7239fdad81b70201c3909b5543da95c23a20a710da49fb45c7c0c.zst",
+      "zsize": 2548704
+    },
+    {
+      "path": "cef/LICENSE-samp-cef.txt",
+      "size": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "url": "client-2026.10.28-4aeadf8/3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986.zst",
+      "zsize": 11547
+    },
+    {
+      "path": "cef/LICENSE.txt",
+      "size": 1691,
+      "sha256": "2e69c36a7eaa4fa153426eab635c607ea0356cbc7a68a70f42a49e8ab8eb8106",
+      "url": "client-2026.10.28-4aeadf8/2e69c36a7eaa4fa153426eab635c607ea0356cbc7a68a70f42a49e8ab8eb8106.zst",
+      "zsize": 889
+    },
+    {
+      "path": "cef/locales/af.pak",
+      "size": 639367,
+      "sha256": "e9eb79ada7d1e3826f012f2046e56a5696c36180ce57bce131866677f7c90b4c",
+      "url": "client-2026.10.28-4aeadf8/e9eb79ada7d1e3826f012f2046e56a5696c36180ce57bce131866677f7c90b4c.zst",
+      "zsize": 174404
+    },
+    {
+      "path": "cef/locales/af_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/af_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/af_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/am.pak",
+      "size": 1032967,
+      "sha256": "994087dc44c3d838ca2e84702c368bfd170ec7a9bfc3e23b5e2e010d4acb8364",
+      "url": "client-2026.10.28-4aeadf8/994087dc44c3d838ca2e84702c368bfd170ec7a9bfc3e23b5e2e010d4acb8364.zst",
+      "zsize": 194656
+    },
+    {
+      "path": "cef/locales/am_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/am_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/am_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ar.pak",
+      "size": 1142014,
+      "sha256": "987684a3d2ca316033a8a37ea8f4f711e051e7151ce386eb0e58dc7b9c8b04c8",
+      "url": "client-2026.10.28-4aeadf8/987684a3d2ca316033a8a37ea8f4f711e051e7151ce386eb0e58dc7b9c8b04c8.zst",
+      "zsize": 200113
+    },
+    {
+      "path": "cef/locales/ar_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ar_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ar_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/bg.pak",
+      "size": 1181911,
+      "sha256": "a92d49b3b264631b5776efbbc3a226916954800654946e11c4536806ad16aed8",
+      "url": "client-2026.10.28-4aeadf8/a92d49b3b264631b5776efbbc3a226916954800654946e11c4536806ad16aed8.zst",
+      "zsize": 194823
+    },
+    {
+      "path": "cef/locales/bg_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/bg_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/bg_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/bn.pak",
+      "size": 1514176,
+      "sha256": "5ef37b305ba3c304e4fe4113cea656fa18d944d6b4419613e74208734aa7d9ac",
+      "url": "client-2026.10.28-4aeadf8/5ef37b305ba3c304e4fe4113cea656fa18d944d6b4419613e74208734aa7d9ac.zst",
+      "zsize": 199816
+    },
+    {
+      "path": "cef/locales/bn_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/bn_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/bn_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ca.pak",
+      "size": 727618,
+      "sha256": "46f4fb7bc0692e3a5f1bcacd4456a46af9f3c0b04d34bfb4f20b193018680600",
+      "url": "client-2026.10.28-4aeadf8/46f4fb7bc0692e3a5f1bcacd4456a46af9f3c0b04d34bfb4f20b193018680600.zst",
+      "zsize": 178454
+    },
+    {
+      "path": "cef/locales/ca_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ca_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ca_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/cs.pak",
+      "size": 745851,
+      "sha256": "267b15752748ef69830b2405737f281d409e3970917670321a35728ace848f3f",
+      "url": "client-2026.10.28-4aeadf8/267b15752748ef69830b2405737f281d409e3970917670321a35728ace848f3f.zst",
+      "zsize": 190990
+    },
+    {
+      "path": "cef/locales/cs_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/cs_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/cs_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/da.pak",
+      "size": 674075,
+      "sha256": "a83ef3e0afd1af7612254d0f022c00bfaaa3eaba980b4237e012c38c6dc42b4d",
+      "url": "client-2026.10.28-4aeadf8/a83ef3e0afd1af7612254d0f022c00bfaaa3eaba980b4237e012c38c6dc42b4d.zst",
+      "zsize": 174687
+    },
+    {
+      "path": "cef/locales/da_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/da_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/da_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/de.pak",
+      "size": 729402,
+      "sha256": "9dc1f386785a49c067e2d5df27edd49f11a32fce4d4f20c55a650cb76a7ed407",
+      "url": "client-2026.10.28-4aeadf8/9dc1f386785a49c067e2d5df27edd49f11a32fce4d4f20c55a650cb76a7ed407.zst",
+      "zsize": 184567
+    },
+    {
+      "path": "cef/locales/de_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/de_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/de_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/el.pak",
+      "size": 1297577,
+      "sha256": "9bc51ecf133a11e814a05f2acdb128def4590a1ac07ea1dffd23c82a2ddf6036",
+      "url": "client-2026.10.28-4aeadf8/9bc51ecf133a11e814a05f2acdb128def4590a1ac07ea1dffd23c82a2ddf6036.zst",
+      "zsize": 203058
+    },
+    {
+      "path": "cef/locales/el_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/el_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/el_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/en-GB.pak",
+      "size": 583085,
+      "sha256": "f94e13839bc6ebada30a6c52d7e4a13b02277ab7fc09a9f9073b4e36b4a336c8",
+      "url": "client-2026.10.28-4aeadf8/f94e13839bc6ebada30a6c52d7e4a13b02277ab7fc09a9f9073b4e36b4a336c8.zst",
+      "zsize": 162952
+    },
+    {
+      "path": "cef/locales/en-GB_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/en-GB_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/en-GB_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/en-US.pak",
+      "size": 589767,
+      "sha256": "2134498846c381159ea41460b8aa5bb9cf01aeee4bdb701fea69c9b42bf330f1",
+      "url": "client-2026.10.28-4aeadf8/2134498846c381159ea41460b8aa5bb9cf01aeee4bdb701fea69c9b42bf330f1.zst",
+      "zsize": 163683
+    },
+    {
+      "path": "cef/locales/en-US_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/en-US_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/en-US_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/es-419.pak",
+      "size": 713476,
+      "sha256": "bbfac75bf9bbb91c1355030daa606efd52d543e1f5c5a958386310c31df239c4",
+      "url": "client-2026.10.28-4aeadf8/bbfac75bf9bbb91c1355030daa606efd52d543e1f5c5a958386310c31df239c4.zst",
+      "zsize": 177667
+    },
+    {
+      "path": "cef/locales/es-419_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/es-419_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/es-419_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/es.pak",
+      "size": 708243,
+      "sha256": "26f03e4ba89ad362d5abc0348118bf6451f0ef11d958892b33e0d6ec2c22b783",
+      "url": "client-2026.10.28-4aeadf8/26f03e4ba89ad362d5abc0348118bf6451f0ef11d958892b33e0d6ec2c22b783.zst",
+      "zsize": 176400
+    },
+    {
+      "path": "cef/locales/es_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/es_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/es_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/et.pak",
+      "size": 648531,
+      "sha256": "216d71c84a3c67e5917962dfbcd91dbc487b79020f263064a973a170f5828251",
+      "url": "client-2026.10.28-4aeadf8/216d71c84a3c67e5917962dfbcd91dbc487b79020f263064a973a170f5828251.zst",
+      "zsize": 179669
+    },
+    {
+      "path": "cef/locales/et_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/et_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/et_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/fa.pak",
+      "size": 1064476,
+      "sha256": "a3a9589cc0db558a570eac82a29ae8ba7e71960533b3fc486077be02cd467f44",
+      "url": "client-2026.10.28-4aeadf8/a3a9589cc0db558a570eac82a29ae8ba7e71960533b3fc486077be02cd467f44.zst",
+      "zsize": 189914
+    },
+    {
+      "path": "cef/locales/fa_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/fa_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/fa_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/fi.pak",
+      "size": 658192,
+      "sha256": "947eeea4772b4957f2f8a5d1d0b6110b79681b81d52c705121036e2ed7957843",
+      "url": "client-2026.10.28-4aeadf8/947eeea4772b4957f2f8a5d1d0b6110b79681b81d52c705121036e2ed7957843.zst",
+      "zsize": 178164
+    },
+    {
+      "path": "cef/locales/fi_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/fi_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/fi_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/fil.pak",
+      "size": 745041,
+      "sha256": "0ee0fe66a6c86814879bed8f334e7e8aa779936e16ac645aaad1b11dbab0435b",
+      "url": "client-2026.10.28-4aeadf8/0ee0fe66a6c86814879bed8f334e7e8aa779936e16ac645aaad1b11dbab0435b.zst",
+      "zsize": 177394
+    },
+    {
+      "path": "cef/locales/fil_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/fil_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/fil_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/fr.pak",
+      "size": 772266,
+      "sha256": "da48a89d2cf689ba20d0b8bcff740c59b7b1392038a4ef7d1252db5bde7b78bb",
+      "url": "client-2026.10.28-4aeadf8/da48a89d2cf689ba20d0b8bcff740c59b7b1392038a4ef7d1252db5bde7b78bb.zst",
+      "zsize": 183101
+    },
+    {
+      "path": "cef/locales/fr_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/fr_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/fr_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/gu.pak",
+      "size": 1501592,
+      "sha256": "29ce5671b8afe94a232a2eabbd08df907e632686e9b1804837214c1974da25d0",
+      "url": "client-2026.10.28-4aeadf8/29ce5671b8afe94a232a2eabbd08df907e632686e9b1804837214c1974da25d0.zst",
+      "zsize": 199174
+    },
+    {
+      "path": "cef/locales/gu_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/gu_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/gu_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/he.pak",
+      "size": 936048,
+      "sha256": "eaa64ea2052e44876a1dcdcc44af7f9980ea9b3c2c8aeb91fccd9ad9b1f419ce",
+      "url": "client-2026.10.28-4aeadf8/eaa64ea2052e44876a1dcdcc44af7f9980ea9b3c2c8aeb91fccd9ad9b1f419ce.zst",
+      "zsize": 187751
+    },
+    {
+      "path": "cef/locales/he_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/he_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/he_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/hi.pak",
+      "size": 1601698,
+      "sha256": "96fc70e262a87fdb3cecfcd51a13ccad5e02e0fc6a2cbf59087c5e99dc395298",
+      "url": "client-2026.10.28-4aeadf8/96fc70e262a87fdb3cecfcd51a13ccad5e02e0fc6a2cbf59087c5e99dc395298.zst",
+      "zsize": 205605
+    },
+    {
+      "path": "cef/locales/hi_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/hi_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/hi_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/hr.pak",
+      "size": 718656,
+      "sha256": "a59a75dfc26e16bb0f4041dae3af0654bbf46ae09b628f3f24f2105993b589bd",
+      "url": "client-2026.10.28-4aeadf8/a59a75dfc26e16bb0f4041dae3af0654bbf46ae09b628f3f24f2105993b589bd.zst",
+      "zsize": 184846
+    },
+    {
+      "path": "cef/locales/hr_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/hr_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/hr_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/hu.pak",
+      "size": 768994,
+      "sha256": "da541cb71b8c992593fbce5f3e4e92708b51b627545787cbdafb96f3c888230b",
+      "url": "client-2026.10.28-4aeadf8/da541cb71b8c992593fbce5f3e4e92708b51b627545787cbdafb96f3c888230b.zst",
+      "zsize": 191808
+    },
+    {
+      "path": "cef/locales/hu_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/hu_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/hu_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/id.pak",
+      "size": 638300,
+      "sha256": "ecefceb0c4f4ff562cf0fb204f2624b80e25d54d566418bd18a9e37eec7fce36",
+      "url": "client-2026.10.28-4aeadf8/ecefceb0c4f4ff562cf0fb204f2624b80e25d54d566418bd18a9e37eec7fce36.zst",
+      "zsize": 163910
+    },
+    {
+      "path": "cef/locales/id_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/id_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/id_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/it.pak",
+      "size": 704083,
+      "sha256": "f53a5edd62c0b56cd1381a00e991fe1598aa05b8319cc52fc3ad266839b0fb70",
+      "url": "client-2026.10.28-4aeadf8/f53a5edd62c0b56cd1381a00e991fe1598aa05b8319cc52fc3ad266839b0fb70.zst",
+      "zsize": 176004
+    },
+    {
+      "path": "cef/locales/it_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/it_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/it_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ja.pak",
+      "size": 853620,
+      "sha256": "e4d79a7dc87507c3f9945ab3fa1d0611cd1f8dd9ae02859825da80eec28641b7",
+      "url": "client-2026.10.28-4aeadf8/e4d79a7dc87507c3f9945ab3fa1d0611cd1f8dd9ae02859825da80eec28641b7.zst",
+      "zsize": 172475
+    },
+    {
+      "path": "cef/locales/ja_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ja_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ja_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/kn.pak",
+      "size": 1718370,
+      "sha256": "1672ba00ca22fb004d33a307a5dec57872ac3093f9a9ce4bd49426d30f44c9ac",
+      "url": "client-2026.10.28-4aeadf8/1672ba00ca22fb004d33a307a5dec57872ac3093f9a9ce4bd49426d30f44c9ac.zst",
+      "zsize": 201087
+    },
+    {
+      "path": "cef/locales/kn_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/kn_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/kn_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ko.pak",
+      "size": 723947,
+      "sha256": "c615a479f31de0630c33b46f99c0fb2069c9e87dd61eb998f100df71377e542a",
+      "url": "client-2026.10.28-4aeadf8/c615a479f31de0630c33b46f99c0fb2069c9e87dd61eb998f100df71377e542a.zst",
+      "zsize": 167133
+    },
+    {
+      "path": "cef/locales/ko_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ko_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ko_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/lt.pak",
+      "size": 781758,
+      "sha256": "fc8aea344e2d7e9207b7aa7699ae384f9c33397dc826f4d248395b3473076777",
+      "url": "client-2026.10.28-4aeadf8/fc8aea344e2d7e9207b7aa7699ae384f9c33397dc826f4d248395b3473076777.zst",
+      "zsize": 188410
+    },
+    {
+      "path": "cef/locales/lt_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/lt_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/lt_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/lv.pak",
+      "size": 779011,
+      "sha256": "1348a98ab315606827add33b3768e59961296a3afd7079047fbf188a4487e2df",
+      "url": "client-2026.10.28-4aeadf8/1348a98ab315606827add33b3768e59961296a3afd7079047fbf188a4487e2df.zst",
+      "zsize": 189199
+    },
+    {
+      "path": "cef/locales/lv_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/lv_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/lv_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ml.pak",
+      "size": 1766370,
+      "sha256": "1dc01d5ad032074dec6dc2b530139c0687d01f0b76c0b3e3497320b8734161bb",
+      "url": "client-2026.10.28-4aeadf8/1dc01d5ad032074dec6dc2b530139c0687d01f0b76c0b3e3497320b8734161bb.zst",
+      "zsize": 204461
+    },
+    {
+      "path": "cef/locales/ml_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ml_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ml_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/mr.pak",
+      "size": 1467947,
+      "sha256": "aec3d01e9d476748cc94af70152c4be85938db3c30cab1ddb52350d0f6da507f",
+      "url": "client-2026.10.28-4aeadf8/aec3d01e9d476748cc94af70152c4be85938db3c30cab1ddb52350d0f6da507f.zst",
+      "zsize": 195229
+    },
+    {
+      "path": "cef/locales/mr_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/mr_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/mr_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ms.pak",
+      "size": 671196,
+      "sha256": "7730fa0843c8c4cfa033ce012b6383066a08d129c27a726b18023593d1821a80",
+      "url": "client-2026.10.28-4aeadf8/7730fa0843c8c4cfa033ce012b6383066a08d129c27a726b18023593d1821a80.zst",
+      "zsize": 166557
+    },
+    {
+      "path": "cef/locales/ms_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ms_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ms_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/nb.pak",
+      "size": 641802,
+      "sha256": "16c2b5bb0d0bd355be5990ce67a6cd655dc3d493575ac53d4d0b5ebf7d6118bd",
+      "url": "client-2026.10.28-4aeadf8/16c2b5bb0d0bd355be5990ce67a6cd655dc3d493575ac53d4d0b5ebf7d6118bd.zst",
+      "zsize": 171109
+    },
+    {
+      "path": "cef/locales/nb_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/nb_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/nb_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/nl.pak",
+      "size": 668493,
+      "sha256": "2a1b69e6dd62ee1c5c492964e25ea09fce3bd6031a738fe279877b7b2154579e",
+      "url": "client-2026.10.28-4aeadf8/2a1b69e6dd62ee1c5c492964e25ea09fce3bd6031a738fe279877b7b2154579e.zst",
+      "zsize": 174730
+    },
+    {
+      "path": "cef/locales/nl_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/nl_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/nl_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/pl.pak",
+      "size": 747126,
+      "sha256": "b5a7fd5f2eeff0253380ea018f78d307a855daa56bce57678f80a757578aae7d",
+      "url": "client-2026.10.28-4aeadf8/b5a7fd5f2eeff0253380ea018f78d307a855daa56bce57678f80a757578aae7d.zst",
+      "zsize": 190295
+    },
+    {
+      "path": "cef/locales/pl_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/pl_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/pl_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/pt-BR.pak",
+      "size": 699754,
+      "sha256": "11a7fc1e05250abc569e894065e2431ccd2fd3e79e77f5bd466f8f0d9861af47",
+      "url": "client-2026.10.28-4aeadf8/11a7fc1e05250abc569e894065e2431ccd2fd3e79e77f5bd466f8f0d9861af47.zst",
+      "zsize": 176877
+    },
+    {
+      "path": "cef/locales/pt-BR_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/pt-BR_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/pt-BR_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/pt-PT.pak",
+      "size": 704992,
+      "sha256": "cb7dc851b1a6b403b42413bb8f73a7d73cb56fbf40b6ad35fff330f80e5760d0",
+      "url": "client-2026.10.28-4aeadf8/cb7dc851b1a6b403b42413bb8f73a7d73cb56fbf40b6ad35fff330f80e5760d0.zst",
+      "zsize": 175376
+    },
+    {
+      "path": "cef/locales/pt-PT_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/pt-PT_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/pt-PT_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ro.pak",
+      "size": 730808,
+      "sha256": "b68dd8608a092c863876e8ec7cac50751aad9ac3bdc5e13b3c8578ee7c246458",
+      "url": "client-2026.10.28-4aeadf8/b68dd8608a092c863876e8ec7cac50751aad9ac3bdc5e13b3c8578ee7c246458.zst",
+      "zsize": 179952
+    },
+    {
+      "path": "cef/locales/ro_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ro_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ro_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ru.pak",
+      "size": 1206977,
+      "sha256": "5168116388b9a3a5c602440a5fa0ebe20e494911c3064bd5ffae5847f3dc1d0b",
+      "url": "client-2026.10.28-4aeadf8/5168116388b9a3a5c602440a5fa0ebe20e494911c3064bd5ffae5847f3dc1d0b.zst",
+      "zsize": 204244
+    },
+    {
+      "path": "cef/locales/ru_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ru_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ru_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sk.pak",
+      "size": 757535,
+      "sha256": "f46fa472b26ff28c0ed61ef954f137e9061d2a42b6cfa4ffe85032c4d83ab657",
+      "url": "client-2026.10.28-4aeadf8/f46fa472b26ff28c0ed61ef954f137e9061d2a42b6cfa4ffe85032c4d83ab657.zst",
+      "zsize": 194180
+    },
+    {
+      "path": "cef/locales/sk_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sk_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sk_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sl.pak",
+      "size": 725957,
+      "sha256": "4f9ba25e3977616abedf344d2878de46dee156f17ff59490ad94775fc3f7b9bc",
+      "url": "client-2026.10.28-4aeadf8/4f9ba25e3977616abedf344d2878de46dee156f17ff59490ad94775fc3f7b9bc.zst",
+      "zsize": 185038
+    },
+    {
+      "path": "cef/locales/sl_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sl_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sl_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sr.pak",
+      "size": 1114799,
+      "sha256": "367ccfa55ac8a4fa115ce864125205c60d685f2ca471ba89cc1b439d17fca5e3",
+      "url": "client-2026.10.28-4aeadf8/367ccfa55ac8a4fa115ce864125205c60d685f2ca471ba89cc1b439d17fca5e3.zst",
+      "zsize": 194914
+    },
+    {
+      "path": "cef/locales/sr_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sr_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sr_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sv.pak",
+      "size": 650450,
+      "sha256": "e3e7984d9a13d90f87ec37cf7969233bf7ec088d477b9efeb453be77e9648e03",
+      "url": "client-2026.10.28-4aeadf8/e3e7984d9a13d90f87ec37cf7969233bf7ec088d477b9efeb453be77e9648e03.zst",
+      "zsize": 171360
+    },
+    {
+      "path": "cef/locales/sv_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sv_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sv_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sw.pak",
+      "size": 687759,
+      "sha256": "e9b2ec016e16ebedb9de28fc9cb536a9ae76988c58370eec640af108c3787a0c",
+      "url": "client-2026.10.28-4aeadf8/e9b2ec016e16ebedb9de28fc9cb536a9ae76988c58370eec640af108c3787a0c.zst",
+      "zsize": 175648
+    },
+    {
+      "path": "cef/locales/sw_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sw_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/sw_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ta.pak",
+      "size": 1761213,
+      "sha256": "cd70fe94d89459a92977009e7ff28118a758cb84ecb06562bff5c7ebfe359e00",
+      "url": "client-2026.10.28-4aeadf8/cd70fe94d89459a92977009e7ff28118a758cb84ecb06562bff5c7ebfe359e00.zst",
+      "zsize": 200543
+    },
+    {
+      "path": "cef/locales/ta_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ta_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ta_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/te.pak",
+      "size": 1628458,
+      "sha256": "3b5b6747de4e30e39c8bc50f95cfb54437ff5d95c75405d5afae568289a55165",
+      "url": "client-2026.10.28-4aeadf8/3b5b6747de4e30e39c8bc50f95cfb54437ff5d95c75405d5afae568289a55165.zst",
+      "zsize": 201624
+    },
+    {
+      "path": "cef/locales/te_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/te_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/te_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/th.pak",
+      "size": 1370160,
+      "sha256": "9df100ec1a39df795963a04402d8a853a2fe127ceef376dd2144e09e6b2a4f78",
+      "url": "client-2026.10.28-4aeadf8/9df100ec1a39df795963a04402d8a853a2fe127ceef376dd2144e09e6b2a4f78.zst",
+      "zsize": 179156
+    },
+    {
+      "path": "cef/locales/th_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/th_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/th_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/tr.pak",
+      "size": 700402,
+      "sha256": "6fba778d7f4fab75b10e0a5b6e56d890aaefa974596e0d7a5ed4e210efc07097",
+      "url": "client-2026.10.28-4aeadf8/6fba778d7f4fab75b10e0a5b6e56d890aaefa974596e0d7a5ed4e210efc07097.zst",
+      "zsize": 176678
+    },
+    {
+      "path": "cef/locales/tr_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/tr_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/tr_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/uk.pak",
+      "size": 1213081,
+      "sha256": "cf7ece63e1b01482c3502f6124f38cf866c73a46cb29433dd137f34750541521",
+      "url": "client-2026.10.28-4aeadf8/cf7ece63e1b01482c3502f6124f38cf866c73a46cb29433dd137f34750541521.zst",
+      "zsize": 201233
+    },
+    {
+      "path": "cef/locales/uk_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/uk_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/uk_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ur.pak",
+      "size": 1047084,
+      "sha256": "31669cd32f9ba6db8b34ee04a3f8dee9365ade4146e54773113d894743513a95",
+      "url": "client-2026.10.28-4aeadf8/31669cd32f9ba6db8b34ee04a3f8dee9365ade4146e54773113d894743513a95.zst",
+      "zsize": 189691
+    },
+    {
+      "path": "cef/locales/ur_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ur_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/ur_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/vi.pak",
+      "size": 833349,
+      "sha256": "ed77b53431112d4440d0a48374b5b97388375dfd4f512a52431585b4ed2ea243",
+      "url": "client-2026.10.28-4aeadf8/ed77b53431112d4440d0a48374b5b97388375dfd4f512a52431585b4ed2ea243.zst",
+      "zsize": 176453
+    },
+    {
+      "path": "cef/locales/vi_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/vi_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/vi_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/zh-CN.pak",
+      "size": 595894,
+      "sha256": "2b0a220701751401f31e2b4f22ea79cb4707b7cac68c16e88a45c80b39774244",
+      "url": "client-2026.10.28-4aeadf8/2b0a220701751401f31e2b4f22ea79cb4707b7cac68c16e88a45c80b39774244.zst",
+      "zsize": 167024
+    },
+    {
+      "path": "cef/locales/zh-CN_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/zh-CN_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/zh-CN_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/zh-TW.pak",
+      "size": 590140,
+      "sha256": "6c19cae1b3ab0b735c232b2fcedcbacab06144eed446d6cf1fe551e0b0f07203",
+      "url": "client-2026.10.28-4aeadf8/6c19cae1b3ab0b735c232b2fcedcbacab06144eed446d6cf1fe551e0b0f07203.zst",
+      "zsize": 165242
+    },
+    {
+      "path": "cef/locales/zh-TW_FEMININE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/zh-TW_MASCULINE.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/locales/zh-TW_NEUTER.pak",
+      "size": 18,
+      "sha256": "ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51",
+      "url": "client-2026.10.28-4aeadf8/ca73097bd968b363b7145e86b64f3c595e533808b0763dc8863a27fc363cfa51.zst",
+      "zsize": 31
+    },
+    {
+      "path": "cef/NOTICE-samp-cef.txt",
+      "size": 985,
+      "sha256": "dcce2869d95f5faab1a785241d0a962027e1449eb2bb088ad0f69accc53be126",
+      "url": "client-2026.10.28-4aeadf8/dcce2869d95f5faab1a785241d0a962027e1449eb2bb088ad0f69accc53be126.zst",
+      "zsize": 639
+    },
+    {
+      "path": "cef/patches/0001-interior-steal-data.patch",
+      "size": 3130,
+      "sha256": "2298d66b138e07bf3f5eee7b782176d7213c3780a411029b18e6827f3f926ffb",
+      "url": "client-2026.10.28-4aeadf8/2298d66b138e07bf3f5eee7b782176d7213c3780a411029b18e6827f3f926ffb.zst",
+      "zsize": 1587
+    },
+    {
+      "path": "cef/patches/0002-cef-interface-plugin.patch",
+      "size": 5963,
+      "sha256": "15dc042f986aeed68588ab79687fa19579816233133f28074ea6821b53a6d4fd",
+      "url": "client-2026.10.28-4aeadf8/15dc042f986aeed68588ab79687fa19579816233133f28074ea6821b53a6d4fd.zst",
+      "zsize": 2348
+    },
+    {
+      "path": "cef/plugins/cef_interface.dll",
+      "size": 241664,
+      "sha256": "ea4891a5b0410a5cf3ec4d937d93da579edd933f9fc60e5fd338d223c481fa92",
+      "url": "client-2026.10.28-4aeadf8/ea4891a5b0410a5cf3ec4d937d93da579edd933f9fc60e5fd338d223c481fa92.zst",
+      "zsize": 120805
+    },
+    {
+      "path": "cef/resources.pak",
+      "size": 16107097,
+      "sha256": "34a5d8a293d00b76e880b86640e3b99f038f4d57deb02e14378cdb8ed623fc52",
+      "url": "client-2026.10.28-4aeadf8/34a5d8a293d00b76e880b86640e3b99f038f4d57deb02e14378cdb8ed623fc52.zst",
+      "zsize": 13826427
+    },
+    {
+      "path": "cef/v8_context_snapshot.bin",
+      "size": 730944,
+      "sha256": "38b8aef38204ba59b6913877d6c91fe6b60cb738a3b6749c71514475eceef284",
+      "url": "client-2026.10.28-4aeadf8/38b8aef38204ba59b6913877d6c91fe6b60cb738a3b6749c71514475eceef284.zst",
+      "zsize": 143016
+    },
+    {
+      "path": "cef/vk_swiftshader.dll",
+      "size": 4862464,
+      "sha256": "067ab8a6e70e867e229a4984bab21d8c9db93f16d912801fb257bac98dd08afb",
+      "url": "client-2026.10.28-4aeadf8/067ab8a6e70e867e229a4984bab21d8c9db93f16d912801fb257bac98dd08afb.zst",
+      "zsize": 1664425
+    },
+    {
+      "path": "cef/vk_swiftshader_icd.json",
+      "size": 106,
+      "sha256": "32d83ff113fef532a9f97e0d2831f8656628ab1c99e9060f0332b1532839afd9",
+      "url": "client-2026.10.28-4aeadf8/32d83ff113fef532a9f97e0d2831f8656628ab1c99e9060f0332b1532839afd9.zst",
+      "zsize": 101
+    },
+    {
+      "path": "cef/vulkan-1.dll",
+      "size": 856064,
+      "sha256": "8ce3d033c60854333884b5431f763b320d1e66299d2670788c1c71e42719a74d",
+      "url": "client-2026.10.28-4aeadf8/8ce3d033c60854333884b5431f763b320d1e66299d2670788c1c71e42719a74d.zst",
+      "zsize": 290279
+    },
+    {
+      "path": "vorbisFile.dll",
+      "role": "asi-loader",
+      "size": 5418336,
+      "sha256": "d5a059aa467a7a7127c8f6169f79fa63ff0f55986ee9eb2fd9a281bebf2aa2e6",
+      "upstream": {
+        "url": "https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/download/v9.7.4/Ultimate-ASI-Loader.zip",
+        "size": 3910913,
+        "sha256": "952cebfc30d525afc2bdbaca954329d405ded3aa688a83027354dae14dfd5c5f",
+        "member": "dinput8.dll"
+      }
+    }
+  ],
+  "requires": [
+    {
+      "name": "SA-MP 0.3.DL R1",
+      "source": "samp",
+      "files": {
+        "samp.dll": "bccdb297464bd382625635be25585df07a8fa6668bc0015650708e3eb4ffcd4b",
+        "samp.saa": "596895c61a70f558a9ad6b9b44cb5c9ac4b374e95ee2266ac9c88585898f8ae7",
+        "SAMP/SAMP.img": "7755badde82981616e6cdfe7f4be37ded413979f7c881e35ad63b758ca787d2f"
+      }
+    },
+    {
+      "name": "open.mp client",
+      "source": "omp-client",
+      "files": {
+        "omp-client.dll": "6c73f390a4935d03dd0c4fb15da58a573954121fe7d30924d2ac951db499b7ab"
+      },
+      "optional": true
+    }
+  ],
+  "purge": [
+    "cef/assets/ui/",
+    "cef/plugins/"
+  ],
+  "delete": [
+    {
+      "path": "package-manifest.json",
+      "sha256": [
+        "7f3764ec85df74b15911cdc6a440b6089531ec05e636499e9c5ca27a255558da",
+        "772ce5f0d12f46c93e6a80044f65fcc5729ea0621362c8b5a547ba4f0b7ad5eb",
+        "6fdd78b6401d3036983891c09700147a191ed5a7a08f2b688d629a8a3eef168d"
+      ]
+    }
+  ]
+}
