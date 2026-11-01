@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "channel": "dev",
-  "version": "2026.10.28-4aeadf8",
-  "serial": 1793193480,
-  "published": "2026-10-28T13:19:24Z",
+  "version": "2026.11.01-1e8df4d",
+  "serial": 1793518895,
+  "published": "2026-11-01T07:41:35Z",
   "min_launcher": "0.1.0",
-  "ui_protocol": 17,
+  "ui_protocol": 18,
   "components": {
     "cef": "f14fe4f-omp1.5.8.3079-4",
-    "ui": "4aeadf8",
+    "ui": "1e8df4d",
     "asi_loader": "v9.7.4"
   },
   "base_url": "https://github.com/birdami/mint-rp/releases/download/",
@@ -21,11 +21,11 @@
       "zsize": 111412
     },
     {
-      "path": "cef/assets/ui/assets/index-CmX2OeW5.js",
-      "size": 441123,
-      "sha256": "c20b54f81db8405024cba3195349c3a6da014c858538a1c6f14e7812b0651df7",
-      "url": "client-2026.10.28-4aeadf8/c20b54f81db8405024cba3195349c3a6da014c858538a1c6f14e7812b0651df7.zst",
-      "zsize": 119712
+      "path": "cef/assets/ui/assets/index-jYkm2Abx.js",
+      "size": 571925,
+      "sha256": "75d03460b71f12fdd5a67c782781b0af05271f9d600df4558d8d70b2ffe8abb5",
+      "url": "client-2026.11.01-1e8df4d/75d03460b71f12fdd5a67c782781b0af05271f9d600df4558d8d70b2ffe8abb5.zst",
+      "zsize": 146142
     },
     {
       "path": "cef/assets/ui/assets/manrope-cyrillic-ext-wght-normal-C8S-KRRz.woff2",
@@ -70,18 +70,18 @@
       "zsize": 8534
     },
     {
-      "path": "cef/assets/ui/assets/style-B4uoHH3c.css",
-      "size": 82029,
-      "sha256": "c05d8a544d0ea58b976da704722e285c5e7eb7a83046bca95fe7248329ecd050",
-      "url": "client-2026.10.28-4aeadf8/c05d8a544d0ea58b976da704722e285c5e7eb7a83046bca95fe7248329ecd050.zst",
-      "zsize": 14230
+      "path": "cef/assets/ui/assets/style-BqVap6Bk.css",
+      "size": 131930,
+      "sha256": "8b0bb4de6f0b97667160a2cb15626fe3a651d1f5f74344b2f3b97a5c06150b89",
+      "url": "client-2026.11.01-1e8df4d/8b0bb4de6f0b97667160a2cb15626fe3a651d1f5f74344b2f3b97a5c06150b89.zst",
+      "zsize": 21221
     },
     {
       "path": "cef/assets/ui/index.html",
       "size": 390,
-      "sha256": "312c4f3070041ccf4d48faca7c808ae3c38fcd0a111419a6c9c0dce2cb12ea95",
-      "url": "client-2026.10.28-4aeadf8/312c4f3070041ccf4d48faca7c808ae3c38fcd0a111419a6c9c0dce2cb12ea95.zst",
-      "zsize": 266
+      "sha256": "1fd497965995bcb027b2a4e7fd8ad615808cf0d83571c95917b22bfb06949f8b",
+      "url": "client-2026.11.01-1e8df4d/1fd497965995bcb027b2a4e7fd8ad615808cf0d83571c95917b22bfb06949f8b.zst",
+      "zsize": 265
     },
     {
       "path": "cef/assets/ui/licenses/@fontsource-variable__manrope.txt",
